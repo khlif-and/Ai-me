@@ -4,3 +4,8 @@ accelerate
 huggingface_hub
 bitsandbytes
 colorama
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+httpx
